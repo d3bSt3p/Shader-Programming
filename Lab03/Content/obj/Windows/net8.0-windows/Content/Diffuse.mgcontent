@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/ASU/CPI 411/ShaderProgramming/Lab3/Content/Diffuse.fx</SourceFile>
+  <SourceTime>2026-01-29T12:52:36-07:00</SourceTime>
+  <DestFile>E:/ASU/CPI 411/ShaderProgramming/Lab3/Content/bin/Windows/Content/Diffuse.xnb</DestFile>
+  <DestTime>2026-02-10T08:30:40-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2025-06-02T03:31:02-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2025-06-02T03:31:02-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

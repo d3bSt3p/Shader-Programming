@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab3/Content/bunny.FBX","C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab3/Content/bin/Windows/bunny.xnb","ModelProcessor","ModelContent",2733392,1254675,0.3077527
+"C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab3/Content/Diffuse.fx","C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab3/Content/bin/Windows/Diffuse.xnb","EffectProcessor","CompiledEffectContent",1110,2038,0.2668399

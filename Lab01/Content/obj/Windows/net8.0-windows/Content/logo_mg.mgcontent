@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab1/Content/logo_mg.jpg</SourceFile>
+  <SourceTime>2026-01-20T11:57:37.2996139-07:00</SourceTime>
+  <DestFile>C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab1/Content/bin/Windows/Content/logo_mg.xnb</DestFile>
+  <DestTime>2026-01-20T12:06:23.0751118-07:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2025-06-02T03:31:02-07:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2025-06-02T03:31:02-07:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

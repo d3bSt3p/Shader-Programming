@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab2/Content/SimplestShader.fx</SourceFile>
+  <SourceTime>2026-01-27T12:13:04.1164788-07:00</SourceTime>
+  <DestFile>C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab2/Content/bin/Windows/Content/SimplestShader.xnb</DestFile>
+  <DestTime>2026-01-27T12:15:43.9478382-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2025-06-02T03:31:02-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2025-06-02T03:31:02-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

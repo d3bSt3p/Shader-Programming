@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab2/Content/logo_mg.jpg","C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab2/Content/bin/Windows/Content/logo_mg.xnb","TextureProcessor","Texture2DContent",68412,562493,0.100607
+"C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab2/Content/Simple3D.fx","C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab2/Content/bin/Windows/Content/Simple3D.xnb","EffectProcessor","CompiledEffectContent",1256,1602,0.256001
+"C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab2/Content/SimplestShader.fx","C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab2/Content/bin/Windows/Content/SimplestShader.xnb","EffectProcessor","CompiledEffectContent",1050,979,0.2219887

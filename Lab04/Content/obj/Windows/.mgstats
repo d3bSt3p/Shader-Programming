@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/ASU/CPI 411/ShaderProgramming/Lab4/Content/SimpleShaders.fx","E:/ASU/CPI 411/ShaderProgramming/Lab4/Content/bin/Windows/SimpleShaders.xnb","EffectProcessor","CompiledEffectContent",1110,2038,0.2398515
+"E:/ASU/CPI 411/ShaderProgramming/Lab4/Content/Torus.FBX","E:/ASU/CPI 411/ShaderProgramming/Lab4/Content/bin/Windows/Torus.xnb","ModelProcessor","ModelContent",65408,53687,0.1063034

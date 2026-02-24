@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AE5862-A74E-4223-BD05-8627BD6E45B9}|Lab05\\Lab05.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shaderprogramming\\lab05\\lab05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AE5862-A74E-4223-BD05-8627BD6E45B9}|Lab05\\Lab05.csproj|solutionrelative:lab05\\lab05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E6E20-ECE4-960A-BD7A-DAA1FA9EAF9C}|SimpleEngine\\SimpleEngine.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shaderprogramming\\simpleengine\\skybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E6E20-ECE4-960A-BD7A-DAA1FA9EAF9C}|SimpleEngine\\SimpleEngine.csproj|solutionrelative:simpleengine\\skybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AE5862-A74E-4223-BD05-8627BD6E45B9}|Lab05\\Lab05.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shaderprogramming\\lab05\\content\\skybox\\sunsetpng4.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{E1AE5862-A74E-4223-BD05-8627BD6E45B9}|Lab05\\Lab05.csproj|solutionrelative:lab05\\content\\skybox\\sunsetpng4.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AE5862-A74E-4223-BD05-8627BD6E45B9}|Lab05\\Lab05.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shaderprogramming\\lab05\\content\\skybox\\skybox.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E1AE5862-A74E-4223-BD05-8627BD6E45B9}|Lab05\\Lab05.csproj|solutionrelative:lab05\\content\\skybox\\skybox.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 317,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab05.cs",
+              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\Lab05\\Lab05.cs",
+              "RelativeDocumentMoniker": "Lab05\\Lab05.cs",
+              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\Lab05\\Lab05.cs",
+              "RelativeToolTip": "Lab05\\Lab05.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T20:24:32.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 317,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SunsetPNG4.png",
+              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\Lab05\\Content\\skybox\\SunsetPNG4.png",
+              "RelativeDocumentMoniker": "Lab05\\Content\\skybox\\SunsetPNG4.png",
+              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\Lab05\\Content\\skybox\\SunsetPNG4.png",
+              "RelativeToolTip": "Lab05\\Content\\skybox\\SunsetPNG4.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-16T20:30:22.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Skybox.cs",
+              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\SimpleEngine\\Skybox.cs",
+              "RelativeDocumentMoniker": "SimpleEngine\\Skybox.cs",
+              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\SimpleEngine\\Skybox.cs",
+              "RelativeToolTip": "SimpleEngine\\Skybox.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwCoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:21:58.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Skybox.fx",
+              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\Lab05\\Content\\skybox\\Skybox.fx",
+              "RelativeDocumentMoniker": "Lab05\\Content\\skybox\\Skybox.fx",
+              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\Lab05\\Content\\skybox\\Skybox.fx",
+              "RelativeToolTip": "Lab05\\Content\\skybox\\Skybox.fx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-12T19:07:07.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

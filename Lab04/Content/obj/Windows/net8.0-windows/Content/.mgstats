@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab4/Content/SimpleShaders.fx","C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab4/Content/bin/Windows/Content/SimpleShaders.xnb","EffectProcessor","CompiledEffectContent",6563,7135,0.2838374
+"C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab4/Content/Torus.FBX","C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab4/Content/bin/Windows/Content/Torus.xnb","ModelProcessor","ModelContent",65408,53687,0.061972

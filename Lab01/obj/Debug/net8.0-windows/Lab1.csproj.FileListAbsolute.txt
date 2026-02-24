@@ -1,0 +1,58 @@
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\Content\SimplestShader.xnb
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\Lab1.exe
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\Lab1.deps.json
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\Lab1.runtimeconfig.json
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\Lab1.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\Lab1.pdb
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\mgcb.tool.restore
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.csproj.AssemblyReference.cache
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.AssemblyInfoInputs.cache
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.AssemblyInfo.cs
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.csproj.Up2Date
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\refint\Lab1.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.pdb
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.genruntimeconfig.cache
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\ref\Lab1.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\Content\logo_mg.xnb
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.AssemblyInfoInputs.cache
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.AssemblyInfo.cs
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.dll
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\refint\Lab1.dll
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.pdb
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\Content\logo_mg.xnb
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\Content\SimplestShader.xnb
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\Lab1.exe
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\Lab1.deps.json
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\Lab1.runtimeconfig.json
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\Lab1.dll
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\Lab1.pdb
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.dll
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\mgcb.tool.restore
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.csproj.AssemblyReference.cache
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.csproj.Up2Date
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\Lab1.genruntimeconfig.cache
+C:\Users\ebecke10\Downloads\ShaderProgramming\ShaderProgramming\Lab1\obj\Debug\net8.0-windows\ref\Lab1.dll
