@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ez3xTgG4Boo=",
+  "dgSpecHash": "1O373V4j/h8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\SimpleEngine\\SimpleEngine.csproj",
+  "projectFilePath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\SimpleEngine\\SimpleEngine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stron\\.nuget\\packages\\microsoft.netcore.app\\2.1.30\\microsoft.netcore.app.2.1.30.nupkg.sha512",
     "C:\\Users\\stron\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.30\\microsoft.netcore.dotnetapphost.2.1.30.nupkg.sha512",

@@ -50,3 +50,17 @@ C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\Simple
 C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\SimpleEngine\obj\Debug\net8.0-windows\refint\SimpleEngine.dll
 C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.pdb
 C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\ShaderProgramming\SimpleEngine\obj\Debug\net8.0-windows\ref\SimpleEngine.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Shader-Programming\SimpleEngine\bin\Debug\net8.0-windows\SimpleEngine.deps.json
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Shader-Programming\SimpleEngine\bin\Debug\net8.0-windows\SimpleEngine.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Shader-Programming\SimpleEngine\bin\Debug\net8.0-windows\SimpleEngine.pdb
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Shader-Programming\SimpleEngine\obj\Debug\net8.0-windows\mgcb.tool.restore
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Shader-Programming\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.csproj.AssemblyReference.cache
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Shader-Programming\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Shader-Programming\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.AssemblyInfoInputs.cache
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Shader-Programming\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.AssemblyInfo.cs
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Shader-Programming\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.csproj.CoreCompileInputs.cache
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Shader-Programming\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.sourcelink.json
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Shader-Programming\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Shader-Programming\SimpleEngine\obj\Debug\net8.0-windows\refint\SimpleEngine.dll
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Shader-Programming\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.pdb
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Shader-Programming\SimpleEngine\obj\Debug\net8.0-windows\ref\SimpleEngine.dll

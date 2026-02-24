@@ -21,13 +21,13 @@ namespace Lab3
 
         
         // lab 3 exersise
-        float angle = 0; // for the x axis
-        float angle2 = 0; // for the y axis
+        float angle = 0; 
+        float angle2 = 0; 
 
 
         float distance = 15.0f;
 
-        Vector3 lightPositon = new Vector3();
+        
         private MouseState previousMouseState;
 
         public Lab03()

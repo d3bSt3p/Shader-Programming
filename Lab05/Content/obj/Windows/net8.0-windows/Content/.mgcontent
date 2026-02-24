@@ -4,14 +4,14 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/ShaderProgramming/Lab05/Content/skybox/cube.fbx</File>
-    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/ShaderProgramming/Lab05/Content/skybox/Skybox.fx</File>
-    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/ShaderProgramming/Lab05/Content/skybox/SunsetPNG1.png</File>
-    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/ShaderProgramming/Lab05/Content/skybox/SunsetPNG2.png</File>
-    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/ShaderProgramming/Lab05/Content/skybox/SunsetPNG3.png</File>
-    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/ShaderProgramming/Lab05/Content/skybox/SunsetPNG4.png</File>
-    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/ShaderProgramming/Lab05/Content/skybox/SunsetPNG5.png</File>
-    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/ShaderProgramming/Lab05/Content/skybox/SunsetPNG6.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab05/Content/skybox/cube.fbx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab05/Content/skybox/Skybox.fx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab05/Content/skybox/SunsetPNG1.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab05/Content/skybox/SunsetPNG2.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab05/Content/skybox/SunsetPNG3.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab05/Content/skybox/SunsetPNG4.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab05/Content/skybox/SunsetPNG5.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab05/Content/skybox/SunsetPNG6.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

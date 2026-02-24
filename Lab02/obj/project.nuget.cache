@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LX2qXRSm6iE=",
+  "dgSpecHash": "Sm2IiAyaJE4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\Lab02\\Lab02.csproj",
+  "projectFilePath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab02\\Lab02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stron\\.nuget\\packages\\microsoft.netcore.app\\2.1.30\\microsoft.netcore.app.2.1.30.nupkg.sha512",
     "C:\\Users\\stron\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.30\\microsoft.netcore.dotnetapphost.2.1.30.nupkg.sha512",

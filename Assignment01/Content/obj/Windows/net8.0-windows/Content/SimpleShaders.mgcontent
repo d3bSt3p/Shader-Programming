@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/stron/Downloads/ShaderProgramming-3/ShaderProgramming/Assignment01/Content/SimpleShaders.fx</SourceFile>
-  <SourceTime>2026-02-20T23:13:45.20072-07:00</SourceTime>
-  <DestFile>C:/Users/stron/Downloads/ShaderProgramming-3/ShaderProgramming/Assignment01/Content/bin/Windows/Content/SimpleShaders.xnb</DestFile>
-  <DestTime>2026-02-20T23:13:46.4015336-07:00</DestTime>
+  <SourceFile>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment01/Content/SimpleShaders.fx</SourceFile>
+  <SourceTime>2026-02-20T23:55:38-07:00</SourceTime>
+  <DestFile>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment01/Content/bin/Windows/Content/SimpleShaders.xnb</DestFile>
+  <DestTime>2026-02-23T23:32:07.1500204-07:00</DestTime>
   <Importer>EffectImporter</Importer>
   <ImporterTime>2025-06-02T03:31:02-07:00</ImporterTime>
   <Processor>EffectProcessor</Processor>

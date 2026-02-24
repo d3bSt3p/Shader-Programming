@@ -4165,11 +4165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\Lab02\\Lab02.csproj",
+      "projectUniqueName": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab02\\Lab02.csproj",
       "projectName": "Lab02",
-      "projectPath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\Lab02\\Lab02.csproj",
+      "projectPath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab02\\Lab02.csproj",
       "packagesPath": "C:\\Users\\stron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\Lab02\\obj\\",
+      "outputPath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

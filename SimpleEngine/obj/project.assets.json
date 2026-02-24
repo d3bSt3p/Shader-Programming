@@ -4165,11 +4165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\SimpleEngine\\SimpleEngine.csproj",
+      "projectUniqueName": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\SimpleEngine\\SimpleEngine.csproj",
       "projectName": "SimpleEngine",
-      "projectPath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\SimpleEngine\\SimpleEngine.csproj",
+      "projectPath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\SimpleEngine\\SimpleEngine.csproj",
       "packagesPath": "C:\\Users\\stron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\ShaderProgramming\\SimpleEngine\\obj\\",
+      "outputPath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\SimpleEngine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

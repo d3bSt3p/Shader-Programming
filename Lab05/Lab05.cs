@@ -71,7 +71,7 @@ namespace Lab05
             // TODO: Add the key controls to rotate the camera
 
             // Lab 3
-            if (Mouse.GetState().MiddleButton == ButtonState.Pressed)
+            if (Mouse.GetState().LeftButton == ButtonState.Pressed)
             {
                 angle += (Mouse.GetState().X - previousMouseState.X) * 0.01f;
                 angle2 += (Mouse.GetState().Y - previousMouseState.Y) * 0.01f;

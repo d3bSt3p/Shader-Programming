@@ -4,13 +4,13 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/stron/Downloads/ShaderProgramming-3/ShaderProgramming/Assignment01/Content/3dModels/box.fbx</File>
-    <File>C:/Users/stron/Downloads/ShaderProgramming-3/ShaderProgramming/Assignment01/Content/3dModels/bunny.FBX</File>
-    <File>C:/Users/stron/Downloads/ShaderProgramming-3/ShaderProgramming/Assignment01/Content/3dModels/sphere.fbx</File>
-    <File>C:/Users/stron/Downloads/ShaderProgramming-3/ShaderProgramming/Assignment01/Content/3dModels/teapot.fbx</File>
-    <File>C:/Users/stron/Downloads/ShaderProgramming-3/ShaderProgramming/Assignment01/Content/3dModels/Torus.FBX</File>
-    <File>C:/Users/stron/Downloads/ShaderProgramming-3/ShaderProgramming/Assignment01/Content/Font.spritefont</File>
-    <File>C:/Users/stron/Downloads/ShaderProgramming-3/ShaderProgramming/Assignment01/Content/SimpleShaders.fx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment01/Content/3dModels/box.fbx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment01/Content/3dModels/bunny.FBX</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment01/Content/3dModels/sphere.fbx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment01/Content/3dModels/teapot.fbx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment01/Content/3dModels/Torus.FBX</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment01/Content/Font.spritefont</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment01/Content/SimpleShaders.fx</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

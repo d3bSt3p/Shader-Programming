@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/helicopter/Helicopter.fbx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/helicopter/HelicopterTexture.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/Reflection.fx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/skybox/cube.fbx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/skybox/Skybox.fx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/skybox/SunsetPNG1.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/skybox/SunsetPNG2.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/skybox/SunsetPNG3.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/skybox/SunsetPNG4.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/skybox/SunsetPNG5.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/skybox/SunsetPNG6.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
