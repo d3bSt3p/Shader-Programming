@@ -3,7 +3,7 @@
   <SourceFile>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment01/Content/3dModels/bunny.FBX</SourceFile>
   <SourceTime>2026-01-29T11:55:22-07:00</SourceTime>
   <DestFile>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment01/Content/bin/Windows/Content/3dModels/bunny.xnb</DestFile>
-  <DestTime>2026-02-23T23:32:06.8584727-07:00</DestTime>
+  <DestTime>2026-03-03T09:16:48.120157-07:00</DestTime>
   <Importer>FbxImporter</Importer>
   <ImporterTime>2025-06-02T03:31:02-07:00</ImporterTime>
   <Processor>ModelProcessor</Processor>

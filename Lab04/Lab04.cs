@@ -63,6 +63,8 @@ namespace Lab4
         {
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
+            KeyboardState keyboardState = Keyboard.GetState();
+            previousKeyboardState = keyboardState;
 
             // Lab 3
             if (Mouse.GetState().MiddleButton == ButtonState.Pressed)
@@ -85,14 +87,11 @@ namespace Lab4
             view = Matrix.CreateLookAt(cameraPosition, Vector3.Zero, cameraUp);
 
             // clamp distance to avoid going through the model, and flipping to the other side
-            // max distance to avoid going too far is set to 90.0f because thats the furtherst we can zoom out
-            // without parts of the model being culled
             distance = MathHelper.Clamp(distance, 0.1f, 90.0f);
 
-
-            // Lab 4
+                        // Lab 4
             // Shininess controls
-            KeyboardState keyboardState = Keyboard.GetState();
+  
             if (keyboardState.IsKeyDown(Keys.Up))
             {
                 shininess += 1.0f;
@@ -119,7 +118,7 @@ namespace Lab4
                 effect.CurrentTechnique = effect.Techniques["Toon"];
             }
 
-            previousKeyboardState = keyboardState;
+            
 
             base.Update(gameTime);
         }

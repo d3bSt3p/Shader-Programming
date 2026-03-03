@@ -1,7 +1,6 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
-using System;
 
 namespace Assignment01
 {
@@ -140,7 +139,7 @@ namespace Assignment01
             previousMouseState = currentMouseState;
 
             // Clamp distance to avoid going through the model, and flipping to the other side
-            distance = MathHelper.Clamp(distance, 10.0f, 90.0f);
+            distance = MathHelper.Clamp(distance,2.0f, 90.0f);
 
             // Rotate light
             float lightRotationSpeed = 0.05f;

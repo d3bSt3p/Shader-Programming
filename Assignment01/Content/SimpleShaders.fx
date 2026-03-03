@@ -187,7 +187,6 @@ float4 PhongBlinnPixelShaderFunction(VertexShaderOutput input) : COLOR0
 
 
 // ========================== SCHLICK ==========================
-
 VertexShaderOutput SchlickVertexShaderFunction(VertexShaderInput input)
 {
     VertexShaderOutput output;
@@ -240,7 +239,6 @@ float4 SchlickPixelShaderFunction(VertexShaderOutput input) : COLOR0
 
 
 // ========================== TOON (Cel-Shading) ==========================
-
 VertexShaderOutput ToonVertexShaderFunction(VertexShaderInput input)
 {
     VertexShaderOutput output;

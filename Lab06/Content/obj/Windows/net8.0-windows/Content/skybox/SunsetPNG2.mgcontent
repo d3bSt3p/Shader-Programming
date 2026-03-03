@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/skybox/SunsetPNG2.png</SourceFile>
+  <SourceFile>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/skybox/SunsetPNG2.png</SourceFile>
   <SourceTime>2026-02-12T12:42:12-07:00</SourceTime>
-  <DestFile>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/bin/Windows/Content/skybox/SunsetPNG2.xnb</DestFile>
-  <DestTime>2026-02-23T23:44:41.9519888-07:00</DestTime>
+  <DestFile>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab06/Content/bin/Windows/Content/skybox/SunsetPNG2.xnb</DestFile>
+  <DestTime>2026-02-24T11:55:47.7514131-07:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2025-06-02T03:31:02-07:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

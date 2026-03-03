@@ -3,7 +3,7 @@
   <SourceFile>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment01/Content/3dModels/box.fbx</SourceFile>
   <SourceTime>2026-02-20T22:34:33-07:00</SourceTime>
   <DestFile>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment01/Content/bin/Windows/Content/3dModels/box.xnb</DestFile>
-  <DestTime>2026-02-23T23:32:06.6723945-07:00</DestTime>
+  <DestTime>2026-03-03T09:16:47.9664874-07:00</DestTime>
   <Importer>FbxImporter</Importer>
   <ImporterTime>2025-06-02T03:31:02-07:00</ImporterTime>
   <Processor>ModelProcessor</Processor>

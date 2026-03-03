@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab07/Content/Font.spritefont</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab07/Content/NormalMaps/art.PNG</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab07/Content/NormalMaps/BumpTest.png</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab07/Content/NormalMaps/crossHatch.png</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab07/Content/NormalMaps/monkey.png</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab07/Content/NormalMaps/nm.dds</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab07/Content/NormalMaps/round.png</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab07/Content/NormalMaps/saint.png</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab07/Content/NormalMaps/science.PNG</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab07/Content/NormalMaps/square.png</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab07/Content/Plane.FBX</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
