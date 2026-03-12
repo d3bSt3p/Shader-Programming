@@ -4,8 +4,8 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>E:/ASU/CPI 411/ShaderProgramming/Lab3/Content/bunny.FBX</File>
-    <File>E:/ASU/CPI 411/ShaderProgramming/Lab3/Content/Diffuse.fx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab03/Content/bunny.FBX</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab03/Content/Diffuse.fx</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

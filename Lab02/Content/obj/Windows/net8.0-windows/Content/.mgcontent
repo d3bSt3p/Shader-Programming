@@ -4,9 +4,9 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab2/Content/logo_mg.jpg</File>
-    <File>C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab2/Content/Simple3D.fx</File>
-    <File>C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab2/Content/SimplestShader.fx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab02/Content/logo_mg.jpg</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab02/Content/Simple3D.fx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab02/Content/SimplestShader.fx</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

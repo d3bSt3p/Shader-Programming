@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4091B22-41E7-4DD1-97A1-3F2F9E5E92DA}|Lab07\\Lab07.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shader-programming\\lab07\\content\\bumpmap.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D4091B22-41E7-4DD1-97A1-3F2F9E5E92DA}|Lab07\\Lab07.csproj|solutionrelative:lab07\\content\\bumpmap.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{EA813C99-397D-493D-A68F-3CBACA0FC42F}|Assignment02\\Assignment02.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shader-programming\\assignment02\\content\\simpleshaders.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EA813C99-397D-493D-A68F-3CBACA0FC42F}|Assignment02\\Assignment02.csproj|solutionrelative:assignment02\\content\\simpleshaders.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4091B22-41E7-4DD1-97A1-3F2F9E5E92DA}|Lab07\\Lab07.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shader-programming\\lab07\\lab07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4091B22-41E7-4DD1-97A1-3F2F9E5E92DA}|Lab07\\Lab07.csproj|solutionrelative:lab07\\lab07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA813C99-397D-493D-A68F-3CBACA0FC42F}|Assignment02\\Assignment02.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shader-programming\\assignment02\\assignment02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA813C99-397D-493D-A68F-3CBACA0FC42F}|Assignment02\\Assignment02.csproj|solutionrelative:assignment02\\assignment02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D11D8620-F44B-99F6-1856-FDBB53632344}|Assignment01\\Assignment01.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shader-programming\\assignment01\\assignment01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D11D8620-F44B-99F6-1856-FDBB53632344}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\assignment01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E5E6E20-ECE4-960A-BD7A-DAA1FA9EAF9C}|SimpleEngine\\SimpleEngine.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shader-programming\\simpleengine\\skybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E6E20-ECE4-960A-BD7A-DAA1FA9EAF9C}|SimpleEngine\\SimpleEngine.csproj|solutionrelative:simpleengine\\skybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326D91DD-F4F7-415D-8339-03547F84603B}|Lab06\\Lab06.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shader-programming\\lab06\\content\\reflection.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{326D91DD-F4F7-415D-8339-03547F84603B}|Lab06\\Lab06.csproj|solutionrelative:lab06\\content\\reflection.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326D91DD-F4F7-415D-8339-03547F84603B}|Lab06\\Lab06.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shader-programming\\lab06\\lab06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326D91DD-F4F7-415D-8339-03547F84603B}|Lab06\\Lab06.csproj|solutionrelative:lab06\\lab06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,47 +29,76 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 317,
+          "DockedWidth": 473,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BumpMap.fx",
-              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab07\\Content\\BumpMap.fx",
-              "RelativeDocumentMoniker": "Lab07\\Content\\BumpMap.fx",
-              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab07\\Content\\BumpMap.fx",
-              "RelativeToolTip": "Lab07\\Content\\BumpMap.fx",
-              "ViewState": "AgIAACIAAAAAAAAAAAAmwE4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-03T17:27:17.828Z",
+              "DocumentIndex": 1,
+              "Title": "Assignment02.cs",
+              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Assignment02\\Assignment02.cs",
+              "RelativeDocumentMoniker": "Assignment02\\Assignment02.cs",
+              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Assignment02\\Assignment02.cs",
+              "RelativeToolTip": "Assignment02\\Assignment02.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAQwKcBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T01:40:04.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Assignment01.cs",
-              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Assignment01\\Assignment01.cs",
-              "RelativeDocumentMoniker": "Assignment01\\Assignment01.cs",
-              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Assignment01\\Assignment01.cs",
-              "RelativeToolTip": "Assignment01\\Assignment01.cs",
-              "ViewState": "AgIAAEsBAAAAAAAAAAAcwGYBAABoAAAAAAAAAA==",
+              "Title": "Skybox.cs",
+              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\SimpleEngine\\Skybox.cs",
+              "RelativeDocumentMoniker": "SimpleEngine\\Skybox.cs",
+              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\SimpleEngine\\Skybox.cs",
+              "RelativeToolTip": "SimpleEngine\\Skybox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T16:57:10.828Z",
+              "WhenOpened": "2026-03-07T05:09:37.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab06.cs",
+              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab06\\Lab06.cs",
+              "RelativeDocumentMoniker": "Lab06\\Lab06.cs",
+              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab06\\Lab06.cs",
+              "RelativeToolTip": "Lab06\\Lab06.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T03:49:11.062Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 473,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleShaders.fx",
+              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Assignment02\\Content\\SimpleShaders.fx",
+              "RelativeDocumentMoniker": "Assignment02\\Content\\SimpleShaders.fx",
+              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Assignment02\\Content\\SimpleShaders.fx",
+              "RelativeToolTip": "Assignment02\\Content\\SimpleShaders.fx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOYBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-07T02:26:39.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Lab07.cs",
-              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab07\\Lab07.cs",
-              "RelativeDocumentMoniker": "Lab07\\Lab07.cs",
-              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab07\\Lab07.cs",
-              "RelativeToolTip": "Lab07\\Lab07.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAIwKUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T19:04:57.994Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "Reflection.fx",
+              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab06\\Content\\Reflection.fx",
+              "RelativeDocumentMoniker": "Lab06\\Content\\Reflection.fx",
+              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab06\\Content\\Reflection.fx",
+              "RelativeToolTip": "Lab06\\Content\\Reflection.fx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-07T03:49:16.585Z"
             }
           ]
         }

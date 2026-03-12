@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab1/Content/logo_mg.jpg</SourceFile>
-  <SourceTime>2026-01-20T11:57:37.2996139-07:00</SourceTime>
-  <DestFile>C:/Users/ebecke10/Downloads/ShaderProgramming/ShaderProgramming/Lab1/Content/bin/Windows/Content/logo_mg.xnb</DestFile>
-  <DestTime>2026-01-20T12:06:23.0751118-07:00</DestTime>
+  <SourceFile>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab01/Content/logo_mg.jpg</SourceFile>
+  <SourceTime>2026-01-27T12:13:04-07:00</SourceTime>
+  <DestFile>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab01/Content/bin/Windows/Content/logo_mg.xnb</DestFile>
+  <DestTime>2026-03-11T19:04:29.6604613-07:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2025-06-02T03:31:02-07:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

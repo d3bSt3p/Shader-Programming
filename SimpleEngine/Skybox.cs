@@ -1,10 +1,5 @@
 ﻿using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 
 namespace CPI411.SimpleEngine
@@ -20,9 +15,13 @@ namespace CPI411.SimpleEngine
         {
             skyBox = Content.Load<Model>("skybox/cube");
             skyBoxEffect = Content.Load<Effect>("skybox/Skybox");
-            skyBoxTexture = new TextureCube(g, 512, false, SurfaceFormat.Color);
 
-            byte[] data = new byte[512 * 512 * 4];
+            // Load the first texture to determine size
+            Texture2D firstTexture = Content.Load<Texture2D>(skyboxTextures[0]);
+            int textureSize = firstTexture.Width; 
+
+            skyBoxTexture = new TextureCube(g, textureSize, false, SurfaceFormat.Color);
+            byte[] data = new byte[textureSize * textureSize * 4];
 
             Texture2D tempTexture = Content.Load<Texture2D>(skyboxTextures[0]);
             tempTexture.GetData<byte>(data);
