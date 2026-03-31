@@ -4,18 +4,14 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab09/Content/Checker.png</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab09/Content/font.spritefont</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab09/Content/nvlobby_new_negz.png</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab09/Content/Plane.FBX</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab09/Content/ProjectiveTexture.fx</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab09/Content/ShadowMap.fx</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab09/Content/ShadowShader.fx</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab09/Content/torus.FBX</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab09/Content/Checker.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab09/Content/font.spritefont</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab09/Content/nvlobby_new_negz.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab09/Content/Plane.FBX</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab09/Content/ShadowMap.fx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab09/Content/torus2.FBX</File>
   </SourceFiles>
   <DestFiles>
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

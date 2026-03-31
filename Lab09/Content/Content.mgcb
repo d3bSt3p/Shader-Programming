@@ -63,25 +63,13 @@
 /processorParam:TextureFormat=Compressed
 /build:Plane.FBX
 
-#begin ProjectiveTexture.fx
-/importer:EffectImporter
-/processor:EffectProcessor
-/processorParam:DebugMode=Auto
-/build:ProjectiveTexture.fx
-
 #begin ShadowMap.fx
 /importer:EffectImporter
 /processor:EffectProcessor
 /processorParam:DebugMode=Auto
 /build:ShadowMap.fx
 
-#begin ShadowShader.fx
-/importer:EffectImporter
-/processor:EffectProcessor
-/processorParam:DebugMode=Auto
-/build:ShadowShader.fx
-
-#begin torus.FBX
+#begin torus2.FBX
 /importer:FbxImporter
 /processor:ModelProcessor
 /processorParam:ColorKeyColor=0,0,0,0
@@ -98,5 +86,5 @@
 /processorParam:Scale=1
 /processorParam:SwapWindingOrder=False
 /processorParam:TextureFormat=Compressed
-/build:torus.FBX
+/build:torus2.FBX
 
