@@ -8,9 +8,11 @@
     <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab08/Content/nvlobby_new_negz.png</File>
     <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab08/Content/Plane.FBX</File>
     <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab08/Content/ProjectiveTexture.fx</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab08/Content/ShadowMap.fx</File>
     <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab08/Content/torus.FBX</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

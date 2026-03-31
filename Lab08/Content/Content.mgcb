@@ -57,6 +57,18 @@
 /processorParam:DebugMode=Auto
 /build:ProjectiveTexture.fx
 
+#begin ProjectiveTexture.fx
+/importer:EffectImporter
+/processor:EffectProcessor
+/processorParam:DebugMode=Auto
+/build:ProjectiveTexture.fx
+
+#begin ShadowMap.fx
+/importer:EffectImporter
+/processor:EffectProcessor
+/processorParam:DebugMode=Auto
+/build:ShadowMap.fx
+
 #begin torus.FBX
 /importer:FbxImporter
 /processor:ModelProcessor
