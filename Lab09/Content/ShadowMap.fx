@@ -99,7 +99,7 @@ float4 ShadowedScenePixelShader(ShadowedSceneVertexShaderOutput input) : COLOR0
     {
         float depthStoredInShadowMap = tex2D(ShadowMapSampler, projTexCoord.xy).r;
 
-        if (depthStoredInShadowMap + 1.0f / 100.0f > realDistance)
+        if (depthStoredInShadowMap + 1.0f / 10000.0f > realDistance)
         {
             diffuseLightingFactor = max(0, dot(N, L)); // gray 
         }
