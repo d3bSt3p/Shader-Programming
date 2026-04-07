@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab10/Content/fire.png","C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab10/Content/bin/Windows/fire.xnb","TextureProcessor","Texture2DContent",146324,262229,0.0852481
+"C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab10/Content/ParticleShader.fx","C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab10/Content/bin/Windows/ParticleShader.xnb","EffectProcessor","CompiledEffectContent",1677,2308,0.1882533
+"C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab10/Content/Torus.FBX","C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab10/Content/bin/Windows/Torus.xnb","ModelProcessor","ModelContent",65408,53687,0.07817
