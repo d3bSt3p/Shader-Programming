@@ -4,9 +4,9 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab10/Content/fire.png</File>
-    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab10/Content/ParticleShader.fx</File>
-    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab10/Content/Torus.FBX</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab10/Content/fire.png</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab10/Content/ParticleShader.fx</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Lab10/Content/Torus.FBX</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
