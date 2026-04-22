@@ -4,26 +4,26 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/3dModels/Torus.FBX</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/BumpMap.fx</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/Font.spritefont</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/normalMaps/art.PNG</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/normalMaps/BumpTest.png</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/normalMaps/crossHatch.png</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/normalMaps/monkey.png</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/normalMaps/nm.dds</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/normalMaps/round.png</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/normalMaps/saint.png</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/normalMaps/science.PNG</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/normalMaps/square.png</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/skybox/cube.fbx</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/skybox/nvlobby_new_negx.png</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/skybox/nvlobby_new_negy.png</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/skybox/nvlobby_new_negz.png</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/skybox/nvlobby_new_posx.png</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/skybox/nvlobby_new_posy.png</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/skybox/nvlobby_new_posz.png</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/Assignment03/Content/skybox/Skybox.fx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/3dModels/Torus.FBX</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/BumpMap.fx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/Font.spritefont</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/normalMaps/art.PNG</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/normalMaps/BumpTest.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/normalMaps/crossHatch.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/normalMaps/monkey.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/normalMaps/nm.dds</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/normalMaps/round.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/normalMaps/saint.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/normalMaps/science.PNG</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/normalMaps/square.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/skybox/cube.fbx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/skybox/nvlobby_new_negx.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/skybox/nvlobby_new_negy.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/skybox/nvlobby_new_negz.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/skybox/nvlobby_new_posx.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/skybox/nvlobby_new_posy.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/skybox/nvlobby_new_posz.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment03/Content/skybox/Skybox.fx</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

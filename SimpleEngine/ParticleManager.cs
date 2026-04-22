@@ -22,6 +22,7 @@ namespace CPI411.SimpleEngine
             public Vector2 uv;  // uv coordiante
             public Vector4 pos; // position
             public Vector4 param; // *** parameter ***  <-- Additional Data to FBX Data (X:Age, Y:MaxAge, ZW: na)
+            public Vector3 normal; // add this field
 
             public VertexInfo(Vector4 _xyz, Vector2 _uv)
             {
@@ -29,12 +30,14 @@ namespace CPI411.SimpleEngine
                 uv = _uv;
                 pos = Vector4.Zero;
                 param = Vector4.Zero;
+                normal = Vector3.Zero;
             }
             public readonly static VertexDeclaration VertexDeclaration = new VertexDeclaration(
-                new VertexElement(0, VertexElementFormat.Vector4, VertexElementUsage.Position, 0),
+                new VertexElement(0,                 VertexElementFormat.Vector4, VertexElementUsage.Position,          0),
                 new VertexElement(sizeof(float) * 4, VertexElementFormat.Vector2, VertexElementUsage.TextureCoordinate, 0),
-                new VertexElement(sizeof(float) * 6, VertexElementFormat.Vector4, VertexElementUsage.Position, 1),
-                new VertexElement(sizeof(float) * 10, VertexElementFormat.Vector4, VertexElementUsage.Position, 2)
+                new VertexElement(sizeof(float) * 6, VertexElementFormat.Vector4, VertexElementUsage.Position,          1),
+                new VertexElement(sizeof(float) * 10,VertexElementFormat.Vector4, VertexElementUsage.Position,          2),
+                new VertexElement(sizeof(float) * 14,VertexElementFormat.Vector3, VertexElementUsage.Normal,            0)
                 );
             VertexDeclaration IVertexType.VertexDeclaration
             {

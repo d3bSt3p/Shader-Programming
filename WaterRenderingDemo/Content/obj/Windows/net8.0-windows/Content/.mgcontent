@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/WaterRenderingDemo/Content/DisplacementHeightMap.jpg</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/WaterRenderingDemo/Content/DisplacementHeightMap2.jpg</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/WaterRenderingDemo/Content/DisplacementHeightMap3.jpg</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/WaterRenderingDemo/Content/DisplacementHeightMap4.jpg</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/WaterRenderingDemo/Content/Font.spritefont</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/WaterRenderingDemo/Content/underwaterNormal.jpg</File>
+    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/WaterRenderingDemo/Content/Water.fx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>DisplacementHeightMaps/DisplacementHeightMap</File>
+    <File>DisplacementHeightMaps/DisplacementHeightMap2</File>
+    <File>DisplacementHeightMaps/DisplacementHeightMap3</File>
+    <File>DisplacementHeightMaps/DisplacementHeightMap4</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

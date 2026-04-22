@@ -149,6 +149,7 @@ namespace Lab07
                         effect.Parameters["AmbientIntensity"].SetValue(0.1f);
                         effect.Parameters["DiffuseColor"].SetValue(new Vector4(1f, 1f, 1f, 1f));
                         effect.Parameters["DiffuseIntensity"].SetValue(1.0f);
+                        
 
                         effect.Parameters["CameraPosition"].SetValue(cameraPosition);
                         effect.Parameters["normalMap"].SetValue(texture);

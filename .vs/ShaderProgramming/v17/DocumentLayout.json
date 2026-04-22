@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\",
+  "WorkspaceRootPath": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Monogame\\Shader-Programming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBD0FED5-4B0F-4132-832B-6D7F7718A53A}|Lab12\\Lab12.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shader-programming\\lab12\\lab12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBD0FED5-4B0F-4132-832B-6D7F7718A53A}|Lab12\\Lab12.csproj|solutionrelative:lab12\\lab12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E5E6E20-ECE4-960A-BD7A-DAA1FA9EAF9C}|SimpleEngine\\SimpleEngine.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\monogame\\shader-programming\\simpleengine\\particlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E6E20-ECE4-960A-BD7A-DAA1FA9EAF9C}|SimpleEngine\\SimpleEngine.csproj|solutionrelative:simpleengine\\particlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBD0FED5-4B0F-4132-832B-6D7F7718A53A}|Lab12\\Lab12.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shader-programming\\lab12\\content\\depthandnormal.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EBD0FED5-4B0F-4132-832B-6D7F7718A53A}|Lab12\\Lab12.csproj|solutionrelative:lab12\\content\\depthandnormal.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{BE997236-6DA2-4DB2-91EC-2482C70091B8}|Assignment04\\Assignment04.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\monogame\\shader-programming\\assignment04\\content\\particleshader.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BE997236-6DA2-4DB2-91EC-2482C70091B8}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\content\\particleshader.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBD0FED5-4B0F-4132-832B-6D7F7718A53A}|Lab12\\Lab12.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shader-programming\\lab12\\content\\ssao.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EBD0FED5-4B0F-4132-832B-6D7F7718A53A}|Lab12\\Lab12.csproj|solutionrelative:lab12\\content\\ssao.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{BE997236-6DA2-4DB2-91EC-2482C70091B8}|Assignment04\\Assignment04.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\monogame\\shader-programming\\assignment04\\assignment04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE997236-6DA2-4DB2-91EC-2482C70091B8}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\assignment04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11D8620-F44B-99F6-1856-FDBB53632344}|Assignment01\\Assignment01.csproj|c:\\users\\stron\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\monogame\\shader-programming\\assignment01\\content\\simpleshaders.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D11D8620-F44B-99F6-1856-FDBB53632344}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\content\\simpleshaders.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Lab12.cs",
-              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab12\\Lab12.cs",
-              "RelativeDocumentMoniker": "Lab12\\Lab12.cs",
-              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab12\\Lab12.cs",
-              "RelativeToolTip": "Lab12\\Lab12.cs",
-              "ViewState": "AgIAANgAAAAAAAAAAAAAAOwAAAAyAAAAAAAAAA==",
+              "Title": "ParticleManager.cs",
+              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Monogame\\Shader-Programming\\SimpleEngine\\ParticleManager.cs",
+              "RelativeDocumentMoniker": "SimpleEngine\\ParticleManager.cs",
+              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Monogame\\Shader-Programming\\SimpleEngine\\ParticleManager.cs",
+              "RelativeToolTip": "SimpleEngine\\ParticleManager.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwCAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T19:40:56.102Z",
+              "WhenOpened": "2026-04-22T20:39:13.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SSAO.fx",
-              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab12\\Content\\SSAO.fx",
-              "RelativeDocumentMoniker": "Lab12\\Content\\SSAO.fx",
-              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab12\\Content\\SSAO.fx",
-              "RelativeToolTip": "Lab12\\Content\\SSAO.fx",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAFUAAAA4AAAAAAAAAA==",
+              "Title": "Assignment04.cs",
+              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Monogame\\Shader-Programming\\Assignment04\\Assignment04.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Assignment04.cs",
+              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Monogame\\Shader-Programming\\Assignment04\\Assignment04.cs",
+              "RelativeToolTip": "Assignment04\\Assignment04.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAUwBsBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T19:09:22.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleShaders.fx",
+              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Monogame\\Shader-Programming\\Assignment01\\Content\\SimpleShaders.fx",
+              "RelativeDocumentMoniker": "Assignment01\\Content\\SimpleShaders.fx",
+              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Monogame\\Shader-Programming\\Assignment01\\Content\\SimpleShaders.fx",
+              "RelativeToolTip": "Assignment01\\Content\\SimpleShaders.fx",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAAAGMBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-16T19:37:40.281Z",
+              "WhenOpened": "2026-04-22T19:52:26.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DepthAndNormal.fx",
-              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab12\\Content\\DepthAndNormal.fx",
-              "RelativeDocumentMoniker": "Lab12\\Content\\DepthAndNormal.fx",
-              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\Lab12\\Content\\DepthAndNormal.fx",
-              "RelativeToolTip": "Lab12\\Content\\DepthAndNormal.fx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Title": "ParticleShader.fx",
+              "DocumentMoniker": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Monogame\\Shader-Programming\\Assignment04\\Content\\ParticleShader.fx",
+              "RelativeDocumentMoniker": "Assignment04\\Content\\ParticleShader.fx",
+              "ToolTip": "C:\\Users\\stron\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Monogame\\Shader-Programming\\Assignment04\\Content\\ParticleShader.fx",
+              "RelativeToolTip": "Assignment04\\Content\\ParticleShader.fx",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAEwI4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-16T19:37:36.386Z",
+              "WhenOpened": "2026-04-22T19:40:28.729Z",
               "EditorCaption": ""
             }
           ]
