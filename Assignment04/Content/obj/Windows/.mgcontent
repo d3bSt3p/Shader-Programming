@@ -5,11 +5,15 @@
   <Config />
   <SourceFiles>
     <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment04/Content/fire.png</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment04/Content/Font.spritefont</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment04/Content/ParticleShader.fx</File>
     <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment04/Content/Plane.FBX</File>
     <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment04/Content/smoke.png</File>
     <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/Assignment04/Content/water.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ebecke10\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90413961-6CAF-4AF0-80F1-6805B1A3337D}|WaterRenderingDemo\\WaterRenderingDemo.csproj|c:\\users\\ebecke10\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shader-programming\\waterrenderingdemo\\content\\water.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{90413961-6CAF-4AF0-80F1-6805B1A3337D}|WaterRenderingDemo\\WaterRenderingDemo.csproj|solutionrelative:waterrenderingdemo\\content\\water.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90413961-6CAF-4AF0-80F1-6805B1A3337D}|WaterRenderingDemo\\WaterRenderingDemo.csproj|c:\\users\\ebecke10\\onedrive\\asu\\courses\\2026-spring\\cpi 411\\shader-programming\\waterrenderingdemo\\watergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90413961-6CAF-4AF0-80F1-6805B1A3337D}|WaterRenderingDemo\\WaterRenderingDemo.csproj|solutionrelative:waterrenderingdemo\\watergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 473,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Water.fx",
+              "DocumentMoniker": "C:\\Users\\ebecke10\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\WaterRenderingDemo\\Content\\Water.fx",
+              "RelativeDocumentMoniker": "WaterRenderingDemo\\Content\\Water.fx",
+              "ToolTip": "C:\\Users\\ebecke10\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\WaterRenderingDemo\\Content\\Water.fx",
+              "RelativeToolTip": "WaterRenderingDemo\\Content\\Water.fx",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAALcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-21T19:11:40.912Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaterGame.cs",
+              "DocumentMoniker": "C:\\Users\\ebecke10\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\WaterRenderingDemo\\WaterGame.cs",
+              "RelativeDocumentMoniker": "WaterRenderingDemo\\WaterGame.cs",
+              "ToolTip": "C:\\Users\\ebecke10\\OneDrive\\ASU\\Courses\\2026-Spring\\CPI 411\\Shader-Programming\\WaterRenderingDemo\\WaterGame.cs",
+              "RelativeToolTip": "WaterRenderingDemo\\WaterGame.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAAAQBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:11:35.202Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

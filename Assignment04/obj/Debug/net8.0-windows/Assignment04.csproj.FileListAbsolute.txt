@@ -33,3 +33,4 @@ C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Monogame\Shader-Programm
 C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Monogame\Shader-Programming\Assignment04\bin\Debug\net8.0-windows\Content\smoke.xnb
 C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Monogame\Shader-Programming\Assignment04\bin\Debug\net8.0-windows\Content\water.xnb
 C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Monogame\Shader-Programming\Assignment04\bin\Debug\net8.0-windows\Content\Plane.xnb
+C:\Users\stron\OneDrive\ASU\Courses\2026-Spring\CPI 411\Monogame\Shader-Programming\Assignment04\bin\Debug\net8.0-windows\Content\Font.xnb

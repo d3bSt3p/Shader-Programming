@@ -21,7 +21,7 @@ namespace CPI411.SimpleEngine
             public Vector4 xyz; // xyz coordinate
             public Vector2 uv;  // uv coordiante
             public Vector4 pos; // position
-            public Vector4 param; // *** parameter ***  <-- Additional Data to FBX Data (X:Age, Y:MaxAge, ZW: na)
+            public Vector4 param; // *** parameter ***  (X:Age, Y:MaxAge, Z:Size, W: unused)
             public Vector3 normal; // add this field
 
             public VertexInfo(Vector4 _xyz, Vector2 _uv)
@@ -53,8 +53,9 @@ namespace CPI411.SimpleEngine
         IndexBuffer indexBuffer;
 
         int activeMax;
-        int particleMax; // number of paricles
+        int particleMax; // number of particles
         int index;       // current index in buffer
+
         public ParticleManager(GraphicsDevice g, int max)
         {
             particleMax = max;
@@ -64,9 +65,9 @@ namespace CPI411.SimpleEngine
             for (int i = 0; i < max; i++)
             {
                 vtx[i * 4 + 0] = new VertexInfo(new Vector4(-1, -1, 0, 1), new Vector2(0, 1));
-                vtx[i * 4 + 1] = new VertexInfo(new Vector4(-1, 1, 0, 1), new Vector2(0, 0));
-                vtx[i * 4 + 2] = new VertexInfo(new Vector4(1, -1, 0, 1), new Vector2(1, 1));
-                vtx[i * 4 + 3] = new VertexInfo(new Vector4(1, 1, 0, 1), new Vector2(1, 0));
+                vtx[i * 4 + 1] = new VertexInfo(new Vector4(-1,  1, 0, 1), new Vector2(0, 0));
+                vtx[i * 4 + 2] = new VertexInfo(new Vector4( 1, -1, 0, 1), new Vector2(1, 1));
+                vtx[i * 4 + 3] = new VertexInfo(new Vector4( 1,  1, 0, 1), new Vector2(1, 0));
             }
             vertexBuffer = new DynamicVertexBuffer(g, typeof(VertexInfo), max * 4, BufferUsage.WriteOnly);
             vertexBuffer.SetData(vtx);
@@ -80,6 +81,7 @@ namespace CPI411.SimpleEngine
             indexBuffer = new IndexBuffer(g, typeof(ushort), idx.Length, BufferUsage.WriteOnly);
             indexBuffer.SetData(idx);
         }
+
         int next()
         {
             for (int i = index; i < particleMax; i++)
@@ -88,7 +90,9 @@ namespace CPI411.SimpleEngine
                 if (particles[i].IsActive() == false) return index = i;
             return 0;
         }
+
         public Particle getNext() { return particles[next()]; }
+
         public void Update(float ElapsedGameTime)
         {
             activeMax = 0;
@@ -97,26 +101,31 @@ namespace CPI411.SimpleEngine
                 particles[i].Update(ElapsedGameTime);
                 if (particles[i].IsActive())
                 {
-                    int ax = activeMax * 4; // ax: vertexBuffer index
+                    int ax = activeMax * 4;
                     Particle pp = particles[i];
-                    vtx[ax + 0].pos.X = pp.Position.X;
-                    vtx[ax + 0].pos.Y = pp.Position.Y;
-                    vtx[ax + 0].pos.Z = pp.Position.Z;
-                    vtx[ax + 1].pos.X = pp.Position.X;
-                    vtx[ax + 1].pos.Y = pp.Position.Y;
-                    vtx[ax + 1].pos.Z = pp.Position.Z;
-                    vtx[ax + 2].pos.X = pp.Position.X;
-                    vtx[ax + 2].pos.Y = pp.Position.Y;
-                    vtx[ax + 2].pos.Z = pp.Position.Z;
-                    vtx[ax + 3].pos.X = pp.Position.X;
-                    vtx[ax + 3].pos.Y = pp.Position.Y;
-                    vtx[ax + 3].pos.Z = pp.Position.Z;
-                    vtx[ax + 0].param.X = vtx[ax + 1].param.X = vtx[ax + 2].param.X = vtx[ax + 3].param.X = pp.Age;
-                    vtx[ax + 0].param.Y = vtx[ax + 1].param.Y = vtx[ax + 2].param.Y = vtx[ax + 3].param.Y = pp.MaxAge;
+
+                    // Position
+                    for (int v = 0; v < 4; v++)
+                    {
+                        vtx[ax + v].pos.X = pp.Position.X;
+                        vtx[ax + v].pos.Y = pp.Position.Y;
+                        vtx[ax + v].pos.Z = pp.Position.Z;
+                    }
+
+                    // param: X=Age, Y=MaxAge, Z=Size
+                    float size = Math.Max(0.01f, pp.Size);
+                    for (int v = 0; v < 4; v++)
+                    {
+                        vtx[ax + v].param.X = pp.Age;
+                        vtx[ax + v].param.Y = pp.MaxAge;
+                        vtx[ax + v].param.Z = size;
+                    }
+
                     activeMax++;
                 }
             }
         }
+
         public void Draw(GraphicsDevice g)
         {
             if (activeMax <= 0) return;
@@ -126,8 +135,6 @@ namespace CPI411.SimpleEngine
             g.DrawIndexedPrimitives(
                 PrimitiveType.TriangleList,
                 0,
-                //0, 
-                //activeMax * 4, 
                 0,
                 activeMax * 2);
         }

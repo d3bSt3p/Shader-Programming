@@ -4,13 +4,13 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/WaterRenderingDemo/Content/DisplacementHeightMap.jpg</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/WaterRenderingDemo/Content/DisplacementHeightMap2.jpg</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/WaterRenderingDemo/Content/DisplacementHeightMap3.jpg</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/WaterRenderingDemo/Content/DisplacementHeightMap4.jpg</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/WaterRenderingDemo/Content/Font.spritefont</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/WaterRenderingDemo/Content/underwaterNormal.jpg</File>
-    <File>C:/Users/ebecke10/OneDrive/ASU/Courses/2026-Spring/CPI 411/Shader-Programming/WaterRenderingDemo/Content/Water.fx</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/WaterRenderingDemo/Content/DisplacementHeightMap.jpg</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/WaterRenderingDemo/Content/DisplacementHeightMap2.jpg</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/WaterRenderingDemo/Content/DisplacementHeightMap3.jpg</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/WaterRenderingDemo/Content/DisplacementHeightMap4.jpg</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/WaterRenderingDemo/Content/Font.spritefont</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/WaterRenderingDemo/Content/underwaterNormal.jpg</File>
+    <File>C:/Users/stron/OneDrive/ASU/Courses/2026-Spring/CPI 411/Monogame/Shader-Programming/WaterRenderingDemo/Content/Water.fx</File>
   </SourceFiles>
   <DestFiles>
     <File>DisplacementHeightMaps/DisplacementHeightMap</File>
